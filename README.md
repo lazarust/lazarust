@@ -1,6 +1,5 @@
-## Hi 👋 I'm Thomas Lazarus! <img src='https://komarev.com/ghpvc/?username=lazarust&alt=lazarust/'>
+## Hi 👋🏽 I'm Thomas Lazarus! <img src='https://komarev.com/ghpvc/?username=lazarust&alt=lazarust/'>
 - 👨🏽‍💻 Currently working, learning and growing my skillset in data science and machine learning.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
 - 🌐 Visit my [portfolio](https://lazarust.github.io) website for complete background and contact.
 
 ---
